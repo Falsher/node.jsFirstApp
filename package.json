@@ -1,0 +1,19 @@
+{
+  "name": "1dfscdcdc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "start:dev": "nodemon app.js localhost 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2",
+    "yargs": "^17.1.1"
+  }
+}
